@@ -1,0 +1,16 @@
+{
+    "paging": {
+        "page": 1,
+        "count": 1,
+        "maxPage": 1,
+        "itemsTotal": 1
+    },
+    "packages": [
+        {
+            "id": "com.proxytune",
+            "title": "ProxyTune",
+            "iconUri": "https://7283749az-boop.github.io/laughing-fiesta/icons/com.proxytune.png",
+            "manifestUrl": "https://7283749az-boop.github.io/laughing-fiesta/manifests/com.proxytune.manifest.json"
+        }
+    ]
+}
