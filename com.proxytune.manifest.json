@@ -1,0 +1,14 @@
+{
+    "id": "com.proxytune",
+    "version": "2.1.0",
+    "type": "web",
+    "title": "ProxyTune",
+    "appDescription": "Advanced VPN client based on Xray core",
+    "iconUri": "https://YOUR_USERNAME.github.io/YOUR_REPO/icons/com.proxytune.png",
+    "sourceUrl": "https://YOUR_USERNAME.github.io/YOUR_REPO",
+    "rootRequired": true,
+    "ipkUrl": "https://YOUR_USERNAME.github.io/YOUR_REPO/apps/com_proxytune_2_1_0_all.ipk",
+    "ipkHash": {
+        "sha256": "0d7146211f5a4aaa7cac2bb49fd28fadd25c77fade3f13a84e9c32af2552c468"
+    }
+}
