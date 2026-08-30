@@ -9,8 +9,8 @@
         {
             "id": "com.proxytune",
             "title": "ProxyTune",
-            "iconUri": "https://7283749az-boop.github.io/laughing-fiesta/icons/com.proxytune.png",
-            "manifestUrl": "https://7283749az-boop.github.io/laughing-fiesta/manifests/com.proxytune.manifest.json"
+            "iconUri": "https://7283749az-boop.github.io/laughing-fiesta/com.proxytune.png",
+            "manifestUrl": "https://7283749az-boop.github.io/laughing-fiesta/com.proxytune.manifest.json"
         }
     ]
 }
